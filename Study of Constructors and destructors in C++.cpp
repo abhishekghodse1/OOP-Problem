@@ -1,5 +1,5 @@
 
-Program : Write a program in C++ to implement Stack. Design the class for stack and the operations to be performed on stack. Use Constructors and destructors. The objective of this assignment is to learn the concepts classes and objects, constructors and destructors
+//Program : Write a program in C++ to implement Stack. Design the class for stack and the operations to be performed on stack. Use Constructors and destructors. The objective of this assignment is to learn the concepts classes and objects, constructors and destructors
 
 #include<iostream>
 using namespace std;
