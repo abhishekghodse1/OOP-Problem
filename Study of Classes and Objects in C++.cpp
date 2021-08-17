@@ -1,4 +1,4 @@
-Program : Write a program in C++ to perform following operations on complex numbers Add, Subtract, Multiply, Divide, Complex conjugate. Design the class for complex number representation and the operations to be performed. The objective of this assignment is to learn the concepts classes and objects. 
+//Program : Write a program in C++ to perform following operations on complex numbers Add, Subtract, Multiply, Divide, Complex conjugate. Design the class for complex number representation and the operations to be performed. The objective of this assignment is to learn the concepts classes and objects. 
 
 
 #include <iostream>
