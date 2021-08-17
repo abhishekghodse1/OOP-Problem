@@ -30,5 +30,3 @@ file_copy("text1.txt","text2.txt");
 cout<<"fille copied";
 return 0;
 }
-
-
